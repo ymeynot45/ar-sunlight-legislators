@@ -19,19 +19,3 @@ class CreateLegislators < ActiveRecord::Migration
     end
   end
 end
-
-
-
-
-      # t.string :first_name
-      # t.string :middle_name
-      # t.string :last_name
-      # t.string :name_suffix
-      # t.string :nickname
-      # t.string :party
-      # t.string :state
-      # t.string :district
-      # t.date   :birthday
-      # t.string :gender
-      # t.string :email
-      # t.string :phone

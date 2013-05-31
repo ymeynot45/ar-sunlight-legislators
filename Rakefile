@@ -1,7 +1,7 @@
 require 'rake'
 require 'rspec/core/rake_task'
 require_relative 'db/config'
-require_relative 'lib/sunlight_legislators_importer'
+#require_relative 'lib/sunlight_legislators_importer'
 
 desc "create the database"
 task "db:create" do
